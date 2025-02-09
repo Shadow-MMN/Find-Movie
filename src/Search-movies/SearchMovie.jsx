@@ -97,7 +97,7 @@ export default function SearchMovie({ movie }) {
     :<>
         <div className='text-white flex flex-col items-center justify-center h-96 '>
              <i className="fa-solid fa-film text-6xl"></i>
-             <h2 className='text-3xl'>{errorMessage}</h2>
+             <h2 className='text-xl'>{errorMessage}</h2>
         </div>
     </>
     return(
