@@ -10,7 +10,7 @@ body{
   background-color: #2e2e2f;
 }
 header{
-  background-image: url("src/Assets/header-bg.png");
+  background-image: url("https://s3-alpha-sig.figma.com/img/dafe/fd94/40637dd9b0240098474b6d8dd9487d8c?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=dLFGXIwQdNdc7vcl3cOKnrTQWiEhc~hwNP6aQsC9~POTLVAIWbQo77~KdyEJeri2hFXUDRznlSKXycmcowe4dIzOVynaq15~u639865l7c~O5yNTHtBbhQKJ6UtYx~xw3K36iilSWgZfQpj1bgib42xcASAjHxYOj-Re7JHuBDfevAjBQK0~SDBbRoyNt5deJ7-MTeWz~tx-6o21KLlhQ5opdzz~gJdNEmV~xlLV15ZYSuiuLBdTb1cou7qxPKCDXdOqS3w~8GeFce8ZihEUGFHWzjP8yudyM28WT9DahsPqqilz3Yq2LQCA3Jm37M~~kiZtk8VkcM5T27-lEfExGg__");
   height: 13em;
   width: 100vw;
   background-size: cover;
